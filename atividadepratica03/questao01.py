@@ -25,4 +25,4 @@ elif idade <= 59:
 else:
     classificacao = "Idoso"
     
-print(f"Classificação: {classificacao}")
+print(f"\nClassificação: {classificacao}")
